@@ -58,11 +58,11 @@
 
 ###
 
-<!-- <picture>
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aurelliaputri06/aurelliaputri06/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aurelliaputri06/aurelliaputri06/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/aurelliaputri06/aurelliaputri06/output/pacman-contribution-graph.svg">
-</picture> -->
+</picture>
 
 ###
 
@@ -80,9 +80,9 @@
   <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
 </div>
 
-###
+<!-- ###
 
-<img src="https://raw.githubusercontent.com/aurelliaputri06/aurelliaputri06/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/aurelliaputri06/aurelliaputri06/output/snake.svg" alt="Snake animation" /> -->
 
 ###
 
