@@ -1,6 +1,94 @@
-![Aurell](img/github-header-banner.png)
+<h1 align="center">Hey, There 👋</h1>
 
-## Hi, There! 👋
+###
+
+<p align="left">I'm Aurell!!</p>
+
+###
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" height="60" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="60" alt="canva logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" height="60" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="60" alt="django logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" height="60" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original-wordmark.svg" height="60" alt="google logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="60" alt="kaggle logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="60" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://www.instagram.com/aurelliaputri06?igsh=MWRzcG5iNjN0b3JsOA==" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/aurelliaputri06?igsh=MWRzcG5iNjN0b3JsOA==" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="37" height="25" alt="instagram logo"  />
+  </a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/visualstudio/default.svg" width="37" height="25" alt="visualstudio logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="37" height="25" alt="youtube logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=aurelliaputri06&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=aurelliaputri06&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+
+###
+
+<!-- <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aurelliaputri06/aurelliaputri06/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aurelliaputri06/aurelliaputri06/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/aurelliaputri06/aurelliaputri06/output/pacman-contribution-graph.svg">
+</picture> -->
+
+###
+
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=aurelliaputri06.aurelliaputri06&left_color=lightskyblue&right_color=darkslateblue"  />
+
+###
+
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
+</div>
+
+###
+
+<div align="center">
+  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/aurelliaputri06/aurelliaputri06/output/snake.svg" alt="Snake animation" />
+
+###
+
+<!-- ![Aurell](img/github-header-banner.png)
+
+## Hi, There! 👋 -->
 
 <!--
 **aurelliaputri06/aurelliaputri06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +105,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🛠️ I’m currently learning [**Python**](https://www.python.org/)
+<!-- - 🛠️ I’m currently learning [**Python**](https://www.python.org/)
 - 🏹 Pronouns: she/her
 - 💗
 
@@ -69,6 +157,6 @@ Here are some ideas to get you started:
 ##### my github stats
 ![Aurell's GitHub stats](https://github-readme-stats.vercel.app/api?username=aurelliaputri06&show_icons=true&theme=outrun) -->
 
-<img src="https://raw.githubusercontent.com/aurelliaputri06/aurelliaputri06/output/snake.svg" alt="Snake animation" />
+<!-- <img src="https://raw.githubusercontent.com/aurelliaputri06/aurelliaputri06/output/snake.svg" alt="Snake animation" />
 
-![game](img/9bde1beb571d417d93cf1cf52e077b34.jpg)
+![game](img/9bde1beb571d417d93cf1cf52e077b34.jpg) -->
