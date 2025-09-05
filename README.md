@@ -80,6 +80,12 @@
   <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
 </div>
 
+###
+
+<img src="https://raw.githubusercontent.com/aurelliaputri06/aurelliaputri06/output/snake.svg" alt="Snake animation" />
+
+###
+
 <!-- ###
 
 <img src="https://raw.githubusercontent.com/aurelliaputri06/aurelliaputri06/output/snake.svg" alt="Snake animation" /> -->
