@@ -69,4 +69,6 @@ Here are some ideas to get you started:
 ##### my github stats
 ![Aurell's GitHub stats](https://github-readme-stats.vercel.app/api?username=aurelliaputri06&show_icons=true&theme=outrun) -->
 
+<img src="https://raw.githubusercontent.com/aurelliaputri06/aurelliaputri06/output/snake.svg" alt="Snake animation" />
+
 ![game](img/9bde1beb571d417d93cf1cf52e077b34.jpg)
