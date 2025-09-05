@@ -1,4 +1,6 @@
-## Hi there, I'm Aurell 👋
+## Hi there 👋
+
+![Aurell](img/github-header-banner.png)
 
 <!--
 **aurelliaputri06/aurelliaputri06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,4 +21,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: she/her
 - ❤️
 
-![Game](9bde1beb571d417d93cf1cf52e077b34.jpg)
+![game](img/9bde1beb571d417d93cf1cf52e077b34.jpg)
